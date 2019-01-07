@@ -1,6 +1,6 @@
 {
   "name": "grid_24_col",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "Repair the Material-ui design grid framework works on a 24 column grid system",
   "license": "UNLICENSED",

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Grids from './AdvancedGrid'
+import Grids from '../AdvancedGrid'
 
 class App extends Component {
     render() {
