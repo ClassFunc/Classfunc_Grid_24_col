@@ -1,10 +1,11 @@
 {
-  "name": "classfunc-mgrid",
+  "name": "classfunc_grid_24_col",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ClassFunc",
+  "homepage": "https://github.com/ClassFunc/Classfunc_Grid_24_col",
   "author": "Tuan Nguyen",
   "dependencies": {
+    "@material-ui/core": "^3.8.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
