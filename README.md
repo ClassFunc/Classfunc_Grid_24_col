@@ -2,7 +2,7 @@ This project Grid 24 column of Classfunc
 
 ## Using in the project reactjs
 
-import Grids from "grid_24_col/Grid"
+import {Grids} from "grid_24_col/core"
 
 ## API
 

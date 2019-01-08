@@ -1,8 +1,8 @@
 var path = require('path');
 
 module.exports = {
-    context: path.join(__dirname, 'src'),
-    entry: './AdvancedGrid.js',
+    context: path.join(__dirname, 'core'),
+    entry: './index.js',
     output: {
         path: path.resolve(__dirname, 'build'),
         filename: 'index.js',
